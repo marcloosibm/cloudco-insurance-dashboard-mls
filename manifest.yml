@@ -1,7 +1,7 @@
 ---
 applications:
-- name: insurance-bot-dashboard-mls
-  host: insurance-bot-dashboard-mls
+- name: insurance-toolchain-mls-dashboard
+  host: insurance-toolchain-mls-dashboard
   memory: 256M
   services:
   - insurance-bot-db
